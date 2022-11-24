@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kanta Oikawa</h1>
 <h3 align="center">A University Student in Hokkaido, Japan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kantacky&label=Profile%20views&color=0e75b6&style=flat" alt="kantacky" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kantacky" alt="kantacky" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/__kantacky__" target="blank"><img src="https://img.shields.io/twitter/follow/__kantacky__?logo=twitter&style=for-the-badge" alt="__kantacky__" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/__kantacky__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__kantacky__" height="30" width="40" /></a>
