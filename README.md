@@ -1,5 +1,8 @@
 # [Kanta Oikawa ⌘ オイカワ カンタ](https://kantacky.com)
 
+[![Banner](https://kantacky.com/content/images/2023/04/BannerTransparent1000.png)](https://kantacky.com)
+
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kantacky&show_icons=true&locale=en&layout=compact" alt="kantacky" height="150px" />
 </p>
