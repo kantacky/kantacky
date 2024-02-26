@@ -1,10 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kanta Oikawa</h1>
-
-<p>
-  <a href="https://www.kantacky.com/" target="blank">
-    <img src="https://www.kantacky.com/content/images/size/w256h256/2023/04/IconTransparent1200.png" alt="__kantacky__" width="30" height="30" />
-  </a>
-</p>
+# [Kanta Oikawa ⌘ オイカワ カンタ](https://kantacky.com)
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kantacky&show_icons=true&locale=en&layout=compact" alt="kantacky" height="150px" />
@@ -21,4 +15,4 @@
 - [BuLo](https://github.com/bulo-hq)
 - [Keiz!](https://github.com/keiz-hq)
 
-&copy; 2024 Kanta Oikawa
+&copy; 2024 [Kanta Oikawa](https://kantacky.com)
