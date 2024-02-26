@@ -10,7 +10,7 @@
 </div>
 
 # Projects
-- [New App is Coming](https://github.com/kantacky/#)
+- [New App is Coming...](https://github.com/kantacky/#)
   - [STRAY-IT](https://github.com/kantacky/STRAY-IT)
   - [ChillyDaze](https://github.com/panna-cotta-2023/ChillyDaze)
 - [Calcool](https://github.com/kantacky/Calcool)
