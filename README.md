@@ -12,7 +12,7 @@
 # Projects
 - [New App is Coming...](https://github.com/kantacky/#)
   - [STRAY-IT](https://github.com/kantacky/STRAY-IT)
-  - [ChillyDaze](https://github.com/panna-cotta-2023/ChillyDaze)
+  - [ChillyDaze](https://github.com/kantacky/ChillyDaze)
 - [Calcool](https://github.com/kantacky/Calcool)
 - [Pomotion](https://github.com/kantacky/Pomotion)
 - [!'s on U](https://github.com/kantacky/IsOnU)
