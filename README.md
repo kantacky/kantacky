@@ -16,6 +16,7 @@
 - [MUJI](https://github.com/kantacky/MUJI)
 - [Calcool](https://github.com/kantacky/Calcool)
 - [Pomotion](https://github.com/kantacky/Pomotion)
+- [Log4k](https://github.com/kantacky/Log4k)
 - [Web](https://github.com/kantacky/kantacky-web-k8s)
   - [Ghost](https://github.com/kantacky/ghost)
 - [APIs](https://github.com/kantacky/apis)
