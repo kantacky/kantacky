@@ -10,12 +10,17 @@
 </div>
 
 # Projects
-- [New App is Coming...](https://github.com/kantacky/#)
-  - [STRAY-IT](https://github.com/kantacky/STRAY-IT)
-  - [ChillyDaze](https://github.com/kantacky/ChillyDaze)
+- [STRAY-IT](https://github.com/kantacky/STRAY-IT)
+- [ChillyDaze](https://github.com/kantacky/ChillyDaze)
+- [!'s on U](https://github.com/kantacky/IsOnU)
+- [MUJI](https://github.com/kantacky/MUJI)
 - [Calcool](https://github.com/kantacky/Calcool)
 - [Pomotion](https://github.com/kantacky/Pomotion)
-- [!'s on U](https://github.com/kantacky/IsOnU)
+- [APIs](https://github.com/kantacky/apis)
+  - SDKs
+    - [Swift](https://github.com/kantacky/apis-swift)
+    - [Go](https://github.com/kantacky/apis-go)
+  - [MUJI](https://github.com/kantacky/muji-api)
 - [BuLo](https://github.com/bulo-hq)
 - [Keiz!](https://github.com/keiz-hq)
 
