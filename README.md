@@ -17,9 +17,8 @@
 - [Calcool](https://github.com/kantacky/Calcool)
 - [Pomotion](https://github.com/kantacky/Pomotion)
 - [APIs](https://github.com/kantacky/apis)
-  - SDKs
-    - [Swift](https://github.com/kantacky/apis-swift)
-    - [Go](https://github.com/kantacky/apis-go)
+  - [Swift SDK](https://github.com/kantacky/apis-swift)
+  - [Go SDK](https://github.com/kantacky/apis-go)
   - [MUJI](https://github.com/kantacky/muji-api)
 - [BuLo](https://github.com/bulo-hq)
 - [Keiz!](https://github.com/keiz-hq)
