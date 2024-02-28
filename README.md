@@ -23,14 +23,14 @@
   - [Swift SDK](https://github.com/kantacky/apis-swift)
   - [Go SDK](https://github.com/kantacky/apis-go)
   - [MUJI](https://github.com/kantacky/muji-api)
+- [BuLo](https://github.com/bulo-hq)
+- [Keiz!](https://github.com/keiz-hq)
+- [nanosuke.net](https://github.com/kantacky/nanosuke.net)
 - Internship
   - [CA iOS Tech Dojo 2023](https://github.com/kantacky/CATechDojo2023)
   - [CA ACE 2023](https://github.com/kantacky/CAACE2023)
   - [Yumemi Codecheck](https://github.com/kantacky/yumemi-ios-engineer-codecheck)
   - [Yumemi 2024 Training](https://github.com/kantacky/yumemi-ios-training)
   - [Yumemi 2024 Bugfix](https://github.com/kantacky/yumemi-ios-training)
-- [BuLo](https://github.com/bulo-hq)
-- [Keiz!](https://github.com/keiz-hq)
-- [nanosuke.net](https://github.com/kantacky/nanosuke.net)
 
 &copy; 2024 [Kanta Oikawa](https://kantacky.com)
