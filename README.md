@@ -26,13 +26,11 @@
 - [BuLo](https://github.com/bulo-hq)
 - [Keiz!](https://github.com/keiz-hq)
 - [nanosuke.net](https://github.com/kantacky/nanosuke.net)
-- <details>
-  <summary>Internship</summary>
+- Internship
   - [CA iOS Tech Dojo 2023](https://github.com/kantacky/CATechDojo2023)
   - [CA ACE 2023](https://github.com/kantacky/CAACE2023)
   - [Yumemi Codecheck](https://github.com/kantacky/yumemi-ios-engineer-codecheck)
   - [Yumemi 2024 Training](https://github.com/kantacky/yumemi-ios-training)
   - [Yumemi 2024 Bugfix](https://github.com/kantacky/yumemi-ios-training)
-</details>
 
 &copy; 2024 [Kanta Oikawa](https://kantacky.com)
