@@ -31,6 +31,6 @@
   - [CA ACE 2023](https://github.com/kantacky/CAACE2023)
   - [Yumemi Codecheck](https://github.com/kantacky/yumemi-ios-engineer-codecheck)
   - [Yumemi 2024 Training](https://github.com/kantacky/yumemi-ios-training)
-  - [Yumemi 2024 Bugfix](https://github.com/kantacky/yumemi-ios-training)
+  - [Yumemi 2024 Bugfix](https://github.com/kantacky/yumemi-ios-training-bug-fix)
 
 &copy; 2024 [Kanta Oikawa](https://kantacky.com)
