@@ -19,4 +19,4 @@
 - [Research](https://github.com/kantacky/fun-research-note)
 - [Class](https://github.com/kantacky/fun-class-note)
 
-&copy; 2024 [Kanta Oikawa](https://kantacky.com)
+&copy; 2025 [Kanta Oikawa](https://kantacky.com)
