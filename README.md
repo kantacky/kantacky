@@ -11,5 +11,12 @@
 
 - [ふらりこ (iOS)](https://github.com/furarico/furarico-ios)
 - [Break60 (iOS)](https://github.com/kantacky/break60)
+- [Vibe Cooking (iOS)](https://github.com/furarico/vibe-cooking-ios)
+
+## Note
+
+- [Kantacky](https://github.com/kantacky/kantacky-note)
+- [Research](https://github.com/kantacky/fun-research-note)
+- [Class](https://github.com/kantacky/fun-class-note)
 
 &copy; 2024 [Kanta Oikawa](https://kantacky.com)
