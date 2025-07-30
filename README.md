@@ -10,7 +10,7 @@
 ## Product
 
 - [ふらりこ (iOS)](https://github.com/furarico/furarico-ios)
-- [Break60 (iOS)](https://github.com/kantacky/break60)
+- [Break60 (iOS)](https://github.com/kantacky/break60-ios)
 - [Vibe Cooking (iOS)](https://github.com/furarico/vibe-cooking-ios)
 
 ## Note
