@@ -9,15 +9,10 @@
 
 ## Product
 
-- [ふらりこ (iOS)](https://github.com/furarico/furarico-ios)
-- [STRAY-IT (iOS)](https://github.com/furarico/strayit-ios)
 - [Break60 (iOS)](https://github.com/kantacky/break60-ios)
 - [Vibe Cooking (iOS)](https://github.com/furarico/vibe-cooking-ios)
-
-## Note
-
-- [Kantacky](https://github.com/kantacky/kantacky-note)
-- [Research](https://github.com/kantacky/fun-research-note)
-- [Class](https://github.com/kantacky/fun-class-note)
+- [Nemulert (iOS)](https://github.com/jphacks/sp_2507)
+- [ふらりこ (iOS)](https://github.com/furarico/furarico-ios)
+- [STRAY-IT (iOS)](https://github.com/furarico/strayit-ios)
 
 &copy; 2025 [Kanta Oikawa](https://kantacky.com)
