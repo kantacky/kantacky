@@ -9,6 +9,7 @@
 
 ## Product
 
+- [Feed Stream (iOS)](https://github.com/kantacky/feed-stream-ios)
 - [Break60 (iOS)](https://github.com/kantacky/break60-ios)
 - [OctoDeck (iOS)](https://github.com/furarico/octo-deck-ios)
 - [Vibe Cooking (iOS)](https://github.com/furarico/vibe-cooking-ios)
