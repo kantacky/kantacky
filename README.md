@@ -20,19 +20,19 @@ CLIツールはHomebrewでインストールすることができます。
 GTFS Schedule / Realtime のCLIユーティリティツールです。
 Homebrewでインストールすることができます。
 
-### [kantacky/kantacky-plugins](https://github.com/kantacky/kantacky-plugins)
-
-Claude Code / Codex 用の Plugin Market Place です。
-
 ### [furarico/octo-deck-ios](https://github.com/furarico/octo-deck-ios)
 
-P2HACKS2025 Post-PBL　部門最優秀賞作品です。
+P2HACKS2025 Post-PBL　部門最優秀賞作品 Octo Deck です。
 
 [Blog](https://kantacky.com/p2hacks2025)
 
+### [jphacks/sp_2507](https://github.com/jphacks/sp_2507)
+
+JPHACKS 2025 Innovator 認定作品 Nemulert です。
+
 ### [furarico/strayit-ios](https://github.com/furarico/strayit-ios)
 
-P2HACKS2022 Pre-PBL　部門最優秀賞作品です。
+P2HACKS2022 Pre-PBL　部門最優秀賞作品 STRAY-IT です。
 
 [Blog](https://kantacky.com/p2hacks2022)
 
