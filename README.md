@@ -1,23 +1,37 @@
 # [Kanta Oikawa ⌘ オイカワ カンタ](https://kantacky.com)
 
-[Resume](https://kantacky.com/resume)
+ソフトウェアエンジニアです。
 
-<div style="display: flex; flex-wrap: wrap; margin: 16px 0; align: left;">
-  <img style="padding-right: 4;" src="https://github-readme-stats.vercel.app/api/top-langs?username=kantacky&show_icons=true&locale=en&layout=compact" alt="kantacky" height="150" />
-  <img style="padding-left: 4;" src="https://github-readme-stats.vercel.app/api?username=kantacky&show_icons=true&count_private=true&locale=en" alt="kantacky" height="150" />
-</div>
+- [About](https://kantacky.com/about)
+- [Blogs](https://kantacky.com/blogs)
+- [Resume](https://kantacky.com/resume)
 
-## Product
+## Projects
 
-- [Feed Stream (iOS)](https://github.com/kantacky/feed-stream-ios)
-- [Break60 (iOS)](https://github.com/kantacky/break60-ios)
-- [OctoDeck (iOS)](https://github.com/furarico/octo-deck-ios)
-- [Vibe Cooking (iOS)](https://github.com/furarico/vibe-cooking-ios)
-- [Nemulert (iOS)](https://github.com/jphacks/sp_2507)
-- [あとまわしリンク (iOS)](https://github.com/furarico/dolater-ios)
-- [ふらりこ (iOS)](https://github.com/furarico/furarico-ios)
-- [STRAY-IT (iOS)](https://github.com/furarico/strayit-ios)
-- [ChillyDaze (iOS)](https://github.com/furarico/dolater-ios)
-- [!'s on U (iOS)](https://github.com/kantacky/isonu-ios)
+### [kantacky/transcribe](https://github.com/kantacky/transcribe)
 
-&copy; 2025 [Kanta Oikawa](https://kantacky.com)
+iOS / iPadOS / macOS で動作するオンデバイス文字起こしツールです。
+CLIツールはHomebrewでインストールすることができます。
+
+### [kantacky/gtfs](https://github.com/kantacky/gtfs)
+
+GTFS Schedule / Realtime のCLIユーティリティツールです。
+Homebrewでインストールすることができます。
+
+### [kantacky/kantacky-plugins](https://github.com/kantacky/kantacky-plugins)
+
+Claude Code / Codex 用の Plugin Market Place です。
+
+### [furarico/octo-deck-ios](https://github.com/furarico/octo-deck-ios)
+
+P2HACKS2025 Post-PBL　部門最優秀賞作品です。
+
+[Blog](https://kantacky.com/p2hacks2025)
+
+### [furarico/strayit-ios](https://github.com/furarico/strayit-ios)
+
+P2HACKS2022 Pre-PBL　部門最優秀賞作品です。
+
+[Blog](https://kantacky.com/p2hacks2022)
+
+&copy; 2026 [Kanta Oikawa](https://kantacky.com)
