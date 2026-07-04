@@ -6,6 +6,8 @@
 - [Blogs](https://kantacky.com/blogs)
 - [Resume](https://kantacky.com/resume)
 
+<img src="https://kantacky.com/github-statistic.svg" width="300" />
+
 ## Projects
 
 ### [kantacky/transcribe](https://github.com/kantacky/transcribe)
